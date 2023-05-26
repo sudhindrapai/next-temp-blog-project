@@ -5,7 +5,7 @@ const Hero = () => {
     <section className={classes.hero}>
       <div className={classes.image}>
         <Image
-          src={"/images/site/profile.jpg"}
+          src={"/images/site/profile.jpeg"}
           alt={"profile image"}
           width={300}
           height={300}
